@@ -11,6 +11,8 @@
 ## Updates 
 
 * There's no `Lovisa Frosteman` or `Lovisa Fronsteman` listed as an employee on Nexer Recruit's Linkedin.
-* The profile with `+1 (667) 402-7728` is using a North American phone number with an Israeli email provider.
-* There are at least 3 recruiters at Nexer Recruit names `Olivia`.
-* Phone number search of `+46 76 067 94 70` on [Hitta.se | Vem ringde? ](https://www.hitta.se/vem-ringde/0760679470) mentions the number is operated by Tele2 Sverige AB.
+* `Montague Bryan`'s profile is using a North American phone number with an Israeli email provider.
+* `Montague Bryan`'s profile has been reported to WhatsApp.
+* There are at least 3 recruiters at Nexer Recruit named `Olivia`.
+* Phone number search of `+46 76 067 94 70` on [Hitta.se | Vem ringde?](https://www.hitta.se/vem-ringde/0760679470) mentions the number is operated by Tele2 Sverige AB.
+* Contacted Nexer Recruit via email and provided the screengrabs.
