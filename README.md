@@ -4,7 +4,7 @@
 
 ## Summary 
 
-This repository contains log of scammers, using WhatsApp, impersonate recruiters to get personal information. 
+This repository contains log of scammers, using WhatsApp, impersonating as recruiters to get personal information. 
 
 ## WhatsApp screengrabs
 
@@ -24,4 +24,5 @@ This repository contains log of scammers, using WhatsApp, impersonate recruiters
 * Phone number search of `+46 76 067 94 70` on [Hitta.se | Vem ringde?](https://www.hitta.se/vem-ringde/0760679470) mentions the number is operated by Tele2 Sverige AB.
 * Both profiles `Montague Bryan` and `Olivia` have been reported to WhatsApp Support.
 * Contacted Nexer Recruit via email and provided the screengrabs.
-* From [Nexer Recruit - LinkedIn page]: ![Message from CEO of Nexer Recruit](https://github.com/MforMubashshera/scam-report/blob/main/2023-09-01_Nexer-Recruit-LinkedIn-post.png?raw=true) 
+* From [Nexer Recruit - LinkedIn page]:
+![Message from CEO of Nexer Recruit](https://github.com/MforMubashshera/scam-report/blob/main/2023-09-01_Nexer-Recruit-LinkedIn-post.png?raw=true) 
